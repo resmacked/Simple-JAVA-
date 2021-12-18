@@ -1,4 +1,4 @@
-package com.resmacked;
+//package com.resmacked;
 
 import java.util.Scanner;
 
